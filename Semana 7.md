@@ -132,22 +132,4 @@ También vimos el uso de **R²** para evaluar cuánto de la variación observada
 
 Agregar información del tránsito mejoró la explicación respecto de utilizar solamente el patrón horario habitual.
 
-## Importancia de la calidad de medición
 
-El análisis se repitió en otras estaciones que contaban con mediciones de NO2.
-
-La relación se distinguía mejor donde había más puntos de medición de tránsito cercanos.
-
-Una conclusión importante fue:
-
-**no detectar una relación no implica necesariamente que no exista; también puede significar que no tenemos suficientes datos para verla.**
-
-Por eso, además del resultado estadístico, siempre hay que considerar cómo y dónde fueron generados los datos.
-
-## Idea principal de la semana
-
-Esta clase mostró cómo una investigación de datos se construye de forma progresiva.
-
-No se pasó directamente de los datos a una conclusión. Primero se revisó la cobertura, después se visualizaron los patrones, se calculó una correlación, se controló el ciclo diario, se incorporaron rezagos, se comparó con el azar y finalmente se planteó un modelo.
-
-La idea que me queda es que **cada resultado debe llevar a preguntarse qué explica realmente, qué puede estar confundiendo la relación y qué información todavía falta**.
