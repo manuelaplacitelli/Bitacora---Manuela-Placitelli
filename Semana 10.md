@@ -1,9 +1,5 @@
 Práctico - Tránsito y calidad del aire
 
-En esta clase trabajé con la base de tránsito y calidad del aire de junio de 2024. La tabla tiene una observación por estación y hora, con información de tránsito, NO2 y PM2.5.
-
-La idea del práctico fue ir desde una primera inspección de la base hasta estudiar relaciones entre variables y finalmente ajustar un modelo lineal.
-
 Ejercicio 1 - Faltantes
 
 Primero revisé la cantidad de datos faltantes por estación.
